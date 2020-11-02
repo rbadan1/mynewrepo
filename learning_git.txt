@@ -1,1 +1,4 @@
-LEarning Git 1 2 3 
+learning git
+1
+2
+
